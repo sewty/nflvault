@@ -1,0 +1,35 @@
+
+| Player             | Team | Flock Fantasy | ESPN  | Sleeper | Underdog |
+| ------------------ | ---- | ------------- | ----- | ------- | -------- |
+| Josh Allen         | BUF  | 1             | 30.0  |         | 37.3     |
+| Jalen Hurts        | PHI  | 2             | 32.2  |         | 40.9     |
+| Lamar Jackson      | BAL  | 3             | 36.1  |         | 47.5     |
+| Patrick Mahomes    | KC   | 4             | 28.8  |         | 44.1     |
+| Anthony Richardson | IND  | 5             | 50.8  |         | 56.8     |
+| CJ Stroud          | HOU  | 6             | 46.6  |         | 71.5     |
+| Kyler Murray       | ARI  | 7             | 87.9  |         | 75.3     |
+| Joe Burrow         | CIN  | 8             | 60.0  |         | 89.9     |
+| Jordan Love        | GB   | 9             | 84.2  |         | 96.7     |
+| Dak Prescott       | DAL  | 10            | 75.6  |         | 95.3     |
+| Jayden Daniels     | WAS  | 11            | 119.7 |         | 101.1    |
+| Brock Purdy        | SF   | 12            | 107.7 |         | 111.5    |
+| Tua Tagovailoa     | MIA  | 13            | 136.4 |         | 123.5    |
+| Caleb Williams     | CHI  | 14            | 118.3 |         | 112.1    |
+| Trevor Lawrence    | JAX  | 15            | 153.1 |         | 118.6    |
+| Jared Goff         | DET  | 16            | 150.3 |         | 124.9    |
+| Justin Herbert     | LAC  | 17            | 156.0 |         | 140.5    |
+| Kirk Cousins       | ATL  | 18            | 149.0 |         | 144.5    |
+| Matthew Stafford   | LAR  | 19            | 164.5 |         | 149.1    |
+| Aaron Rodgers      | NYJ  | 20            | 124.5 |         | 159.5    |
+| Deshaun Watson     | CLE  | 21            | 159.5 |         | 153.5    |
+| Justin Fields      | CHI  | 22            | 169.4 |         | 175.9    |
+| Geno Smith         | SEA  | 23            | 169.3 |         | 168.9    |
+| Baker Mayfield     | TB   | 24            | 164.3 |         | 165.2    |
+| Will Levis         | TEN  | 25            | 169.2 |         | 174.5    |
+| Daniel Jones       | NYG  | 26            | 169.9 |         | 187.9    |
+| Drake Maye         | NE   | 27            | 169.7 |         | 203.3    |
+| Bryce Young        | CAR  | 28            | 169.2 |         | 193.7    |
+| JJ McCarthy        | MIN  | 29            | n/a   |         | 210.0    |
+| Derek Carr         | NO   | 30            | 169.9 |         | 200.5    |
+| Bo Nix             | DEN  | 31            | 168.5 |         | 208.5    |
+| Russell Wilson     | PIT  | 32            | 169.5 |         | 212.7    |
